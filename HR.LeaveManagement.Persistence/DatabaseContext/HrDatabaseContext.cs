@@ -22,16 +22,7 @@ namespace HR.LeaveManagement.Persistence.DatabaseContext
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.ApplyConfigurationsFromAssembly(typeof(HrDatabaseContext).Assembly);
-
-            modelBuilder.Entity<LeaveType>().HasData(
-                new LeaveType
-                {
-                    Id = 1,
-                    Name = "vacation",
-                    DefaultDays = 10,
-                    DateCreated = DateTime.Now,
-                    DateModified = DateTime.Now
-                });
+            //modelBuilder.ApplyConfiguration(new LeaveTypeConfiguration());
             base.OnModelCreating(modelBuilder);
         }
         public override Task<int> SaveChangesAsync(bool acceptAllChangesOnSuccess, CancellationToken cancellationToken = default)
