@@ -12,7 +12,6 @@ namespace HR.LeaveManagement.Infrastructure
             services, IConfiguration configuration)
         {
             services.Configure<EmailSettings>(configuration.GetSection("EmailSettings"));
-           // services.Configure<EmailSettings>(configuration.GetSection("EmailSettings"));
             services.AddTransient<IEmailSender, EmailSender>();
             return services;
         }
