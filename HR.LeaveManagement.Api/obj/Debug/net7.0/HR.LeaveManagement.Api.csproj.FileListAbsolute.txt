@@ -86,3 +86,8 @@ E:\User\source\repos\HR.LeaveManagement.Clean\HR.LeaveManagement.Api\obj\Debug\n
 E:\User\source\repos\HR.LeaveManagement.Clean\HR.LeaveManagement.Api\obj\Debug\net7.0\HR.LeaveManagement.Api.pdb
 E:\User\source\repos\HR.LeaveManagement.Clean\HR.LeaveManagement.Api\obj\Debug\net7.0\HR.LeaveManagement.Api.genruntimeconfig.cache
 E:\User\source\repos\HR.LeaveManagement.Clean\HR.LeaveManagement.Api\obj\Debug\net7.0\ref\HR.LeaveManagement.Api.dll
+E:\User\source\repos\HR.LeaveManagement.Clean\HR.LeaveManagement.Api\bin\Debug\net7.0\Humanizer.dll
+E:\User\source\repos\HR.LeaveManagement.Clean\HR.LeaveManagement.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\User\source\repos\HR.LeaveManagement.Clean\HR.LeaveManagement.Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\User\source\repos\HR.LeaveManagement.Clean\HR.LeaveManagement.Api\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\User\source\repos\HR.LeaveManagement.Clean\HR.LeaveManagement.Api\bin\Debug\net7.0\System.CodeDom.dll
